@@ -1,5 +1,6 @@
 ## Hi, I'm Tim 
 
+I'm a Full-Stack Web Developer with 15+ years of experience building scalable CMS-driven web platforms. My work has focused heavily on Drupal development and accessible front-end architecture, using technologies like PHP, JavaScript, React/Next.js, HTML5, and SCSS/CSS. I’ve supported high-traffic and multilingual websites while collaborating in Git-based development environments and ensuring WCAG accessibility compliance. I’m passionate about clean code, thoughtful UX, and continuously learning new technologies. Currently open to new opportunities — remote, hybrid, or relocation for the right role.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/timhankinson) 
